@@ -1,4 +1,4 @@
-##Feel free to reach out if you want to collaborate on projects or just chat about tech!
+## Feel free to reach out if you want to collaborate on projects or just chat about tech!
 
 ## Skills and Experience
 * 💻 Front-end Development
