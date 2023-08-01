@@ -1,5 +1,5 @@
 ## Skills and Experience
-* 👾 Frontend development
+* 👾 Web Development
 * 💻 QA Testing
 
 ## Contact Me
